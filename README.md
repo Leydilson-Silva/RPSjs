@@ -7,12 +7,12 @@
 - scrissor
 
 ## Previews
-<img src="./src/previews/previewMobile.png" width="300"> 
-<img src="./src/previews/previewMobile.png" width="300"> 
+<!-- <img src="./src/previews/previewMobile.png" width="300"> 
+<img src="./src/previews/previewMobile.png" width="300">  -->
+<!-- 
+### description: -->
 
-### description:
-
-
+<!-- 
 ## Documentação de cores
 
  | Cores de fundo | Cor do texto | cor de borda
@@ -24,7 +24,7 @@
 | ![#485fc7](https://via.placeholder.com/10/485fc7?text=+) #485fc7 | ![#2c3e50](https://via.placeholder.com/10/2c3e50?text=+) #2c3e50 | - |
 | - | ![#363636](https://via.placeholder.com/10/363636?text=+) #363636 | - |
 | - |  ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 | - |
-| - |  ![#000000b3](https://via.placeholder.com/10/000000b3?text=+) #000000b3 |- |
+| - |  ![#000000b3](https://via.placeholder.com/10/000000b3?text=+) #000000b3 |- | -->
 
 
 ## Licença
