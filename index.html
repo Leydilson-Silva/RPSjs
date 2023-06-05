@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RPSjs - Game</title>
+    <link rel="shortcut icon" href="./src/Icon/favicon.svg" type="image/x-icon">
+    <!-- Import style -->
+    <link rel="stylesheet" href="style.css">
+    <!-- import font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap"
+      rel="stylesheet">
+  </head>
+
+  <body>
+    <header>
+      <h1><a href="#">RPS battle</a> ⚔️ in js</h1>
+
+      <h2 class="winner"></h2>
+
+      <div class="placar">
+        <span>Player</span>
+        <h2 id="playerWins"></h2>
+        <h1>⚔️</h1>
+        <h2 id="enemyWins"></h2>
+        <span id="enemy">Enemy</span>
+      </div>
+
+    </header>
+
+    <section>
+      <div class="player-options">
+        <div><img selec="rock" src="src/assets/rock.svg" alt="image of rock"></div>
+        <div><img selec="paper" src="src/assets/paper.svg" alt="image of paper"></div>
+        <div><img selec="scissor" src="src/assets/scissor.svg"
+            alt="image of scissor"></div>
+
+      </div>
+      <div class="enemy-options">
+        <div><img selec="rock" src="src/assets/rock.svg" alt="image of rock"></div>
+        <div><img selec="paper" src="src/assets/paper.svg" alt="image of paper"></div>
+        <div><img selec="scissor" src="src/assets/scissor.svg"
+            alt="image of scissor"></div>
+
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="content has-text-centered">
+        <p>
+          <strong>RPS js</strong> by <a target="_blank"
+            href="https://github.com/Leydilson-Silva">Leydilson
+            Silva</a>. The source code is licensed
+          <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
+        </p>
+      </div>
+    </footer>
+  </body>
+  <script src="index.js"></script>
+
+</html>
